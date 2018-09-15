@@ -20,7 +20,7 @@ class Eslint_d(NodeLinter):
 
     """Provides an interface to eslint_d."""
 
-    syntax = ('javascript', 'html', 'javascriptnext', 'javascript (babel)', 'javascript (jsx)', 'jsx-real')
+    syntax = ('javascript', 'html', 'javascriptnext', 'javascript (babel)', 'javascript (jsx)', 'jsx-real', 'lightscript')
     npm_name = 'eslint_d'
     cmd = ('eslint_d', '--format', 'compact', '--stdin', '--stdin-filename', '@')
     executable = None

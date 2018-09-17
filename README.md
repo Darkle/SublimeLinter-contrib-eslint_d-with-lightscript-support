@@ -1,7 +1,5 @@
-SublimeLinter-contrib-eslint_d-with-lightscript-support
+SublimeLinter-contrib-eslint_d
 ================================
-
-This is the same as the original but with support for [LightScript](http://www.lightscript.org/docs/) files.
 
 [![Build Status](https://travis-ci.org/roadhump/SublimeLinter-contrib-eslint_d.svg?branch=master)](https://travis-ci.org/roadhump/SublimeLinter-contrib-eslint_d)
 
